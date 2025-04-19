@@ -112,8 +112,8 @@ This project focuses on predicting the **selling price of used cars** using a ma
 
 ### 📬 Connect with Me
 
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@patelShiv84](https://github.com/patelShiv84)  
+- LinkedIn: [patelshiv84]([https://www.linkedin.com/in/patelshiv84?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
