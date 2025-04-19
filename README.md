@@ -121,6 +121,4 @@ This project focuses on predicting the **selling price of used cars** using a ma
 
 If you found this project helpful or interesting, give it a ⭐ on GitHub!
 
----
 
-Let me know if you'd like help creating a `requirements.txt` or setting up a GitHub Actions workflow too!
